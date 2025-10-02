@@ -1,0 +1,9 @@
+// src/data/publications.json
+[
+  {
+    "title": "Utilization of numerical and machine learning ... SDSTC",
+    "venue": "Structures",
+    "year": 2025,
+    "doi": "https://doi.org/10.xxxx/istruc.2025.108206"
+  }
+]
